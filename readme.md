@@ -4,15 +4,22 @@ Backend built with Laravel 4.2
 Prerequisits:
 Composer, NPM, git, MySQL database.
 
-Instalation:
+Installation:
 
-1. git clone git@github.com:ori-volfo/tasks-manager.git
+1. `git clone git@github.com:ori-volfo/tasks-manager.git`
 
-2. composer update
+2. `composer update`
 
-3. npm install
+3. `npm install`
 
 4. run tasks-manager.sql in DB to build initial table
 
 5. go to /app/config/local/database.php
     for 'mysql' (line 23) fill in your username and password (lines 27-28)
+
+
+
+Run project:
+
+1. `php artisan serve`
+2. go to localhost:8000/
