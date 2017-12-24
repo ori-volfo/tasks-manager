@@ -1,3 +1,5 @@
+Project unfinished!
+
 Tasks Manager as described on https://guides.emberjs.com/v1.10.0/getting-started/
 Backend built with Laravel 4.2
 
